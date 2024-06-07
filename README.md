@@ -1,4 +1,4 @@
-# Abs_LR
+# Deepo
 This is a implementaiton for LR in pytorch for testing different tools
 
 # PROJECT ORGANIZATION
